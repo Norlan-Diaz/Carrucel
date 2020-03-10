@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#menufijo {
+    background-color: #5BB135;
+    height: 100px;
+    width: 480px;
+    margin-left: 33%;
+    position: fixed;
+    z-index: 100;
+}
+#contenido {
+}
